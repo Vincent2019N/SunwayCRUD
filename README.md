@@ -1,2 +1,2 @@
-# SunwayCRUD
+# LaravelCRUD
 Sunway Product Laravel CRUD
